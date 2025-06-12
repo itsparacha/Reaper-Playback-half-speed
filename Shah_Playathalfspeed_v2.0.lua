@@ -4,7 +4,7 @@ Version: 2.0
 Author: Shahzaib Paracha
 About:
   - Toggles half-speed playback
-  - Resets to normal when stopped manually or the same key bind (e.g., spacebar)
+  - Resets to normal when stopped manually (e.g., spacebar) or the same key bind
 License: Apache 2.0
 --]]
 
